@@ -1,0 +1,10 @@
+site_name: my diary
+theme:
+  name: material
+  palette:
+    scheme: slate  # Dark mode
+    primary: deep purple
+    accent: pink
+  font:
+    text: Roboto
+    code: Fira Code
