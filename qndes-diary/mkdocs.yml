@@ -1,10 +1,8 @@
-site_name: my diary
+site_name: Gedankenspiele
 theme:
-  name: material
+  name: simple-blog
   palette:
-    scheme: slate  # Dark mode
-    primary: deep purple
-    accent: pink
+    scheme: simple-blog  # Dark mode
   font:
     text: Roboto
     code: Fira Code
