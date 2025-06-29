@@ -11,7 +11,8 @@ dependencies = [
     "mkdocs (>=1.6.1,<2.0.0)",
     "mkdocs-material (>=9.6.9,<10.0.0)",
     "mkdocs-landing (>=0.0.8,<0.0.9)",
-    "mkdocs-simple-blog (>=0.2.0,<0.3.0)"
+    "mkdocs-simple-blog (>=0.2.0,<0.3.0)",
+    "mkdocs-blogging-plugin (>=2.2.11,<3.0.0)"
 ]
 
 
