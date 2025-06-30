@@ -23,7 +23,7 @@ jobs:
 
       - name: Install MkDocs using uv
         run: |
-          uv pip install mkdocs
+          uv venv pip install mkdocs
 
       - name: Deploy to GitHub Pages
         run: |
