@@ -18,7 +18,6 @@ jobs:
 
       - name: Install MkDocs
         run: |
-          python3 -m pip install --upgrade pip
           pip install mkdocs
 
       - name: Deploy with MkDocs
