@@ -16,9 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install MkDocs
+      - name: Install uv
         run: |
-          pip install mkdocs
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH  # Add uv to PATH if needed
 
-      - name: Deploy with MkDocs
-        run: cd qndes-homepage && mkdocs gh-deploy --force
+      - name: Install MkDocs using uv
+        run: |
+          uv pip install mkdocs
+
+      - name: Deploy to GitHub Pages
+        run: |
+          cd qndes-homepage && uv venv exec mkdocs gh-deploy --force
