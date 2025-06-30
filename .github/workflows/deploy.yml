@@ -28,4 +28,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          cd qndes-homepage && uv venv exec mkdocs gh-deploy --force
+          cd qndes-homepage && uv run mkdocs gh-deploy --force
