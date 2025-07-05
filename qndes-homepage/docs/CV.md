@@ -45,3 +45,5 @@ I have a strong passion for solving complex problems, creating innovative soluti
 *Large scale simulations and theoretical work at a major German research institution*
 
 **2015 - 2021**
+
+For a detailed CV please 📬 [Email me](mailto:avolkha1@gmail.com)
