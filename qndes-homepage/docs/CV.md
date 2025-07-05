@@ -23,6 +23,8 @@ I have a strong passion for solving complex problems, creating innovative soluti
     - design of data exploration hub based on **graphQL**
     - fine-tuning, deployment and evaluation of vision large language models for detection of critical situations for autonomous driving
 
+----
+----
 ### **Lead developer**
 
 *Autonomous driving project at a global car supplier*
