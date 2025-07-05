@@ -1,4 +1,4 @@
-# About me
+# CV
 
 PhD in theoretical and computational physics with 3+ years of professional experience in data engineerin and big data.
 I have a strong passion for solving complex problems, creating innovative solutions, and making a positive impact through my work. 
