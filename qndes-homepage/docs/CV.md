@@ -37,7 +37,7 @@ I have a strong passion for solving complex problems, creating innovative soluti
 **2022 - 2023**
 - Developing and deploying a data enrichment platform for easy execution of python code in workflows (key technologies: **terraform**,**azure batch**,**argo workflows**)
 
-##  💼  **Education**
+##  🎓 **Education**
 
 ### **PhD in theoretical biophysics**
 *Large scale simulations and theoretical work at a major German research institution*
